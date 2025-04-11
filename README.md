@@ -21,7 +21,7 @@ A feature-rich WhatsApp bot built using Baileys library with command handling, u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo/whatsapp-bot.git
+git clone https://github.com/VynaaValerie/Base-Bot-Deposit-.git
 cd whatsapp-bot
 ```
 
@@ -33,8 +33,8 @@ npm install
 3. Configure your settings in `config.js`:
 ```javascript
 global.owner = [
-  "6281234567890", // Your WhatsApp number
-  "6289876543210"  // Additional owner (optional)
+  "628", // Your WhatsApp number
+  "628"  // Additional owner (optional)
 ]
 ```
 
@@ -102,7 +102,7 @@ whatsapp-bot/
 
 ## Troubleshooting
 
-1. **QR Code Not Appearing**:
+1. **Pairing Code**:
    - Delete the `session` folder and restart the bot
    - Ensure your phone has an active internet connection
 
