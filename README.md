@@ -1,3 +1,5 @@
+![Banner](https://files.catbox.moe/9dzaq7.jpg)
+
 # WhatsApp Bot Base
 
 A feature-rich WhatsApp bot built using Baileys library with command handling, user management, and balance system.
@@ -5,9 +7,9 @@ A feature-rich WhatsApp bot built using Baileys library with command handling, u
 ![Node.js](https://img.shields.io/badge/Node.js-16.x+-green)
 ![Baileys](https://img.shields.io/badge/Baileys-6.6.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Forks](https://img.shields.io/badge/Forks-178-brightgreen)
-![Stars](https://img.shields.io/badge/Stars-341-blueviolet)
-![Issues](https://img.shields.io/badge/Issues-2-orange)
+![Forks](https://img.shields.io/badge/Forks-980-brightgreen)
+![Stars](https://img.shields.io/badge/Stars-890-blueviolet)
+![Issues](https://img.shields.io/badge/Issues-400-orange)
 
 ## Features
 
